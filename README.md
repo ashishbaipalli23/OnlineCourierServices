@@ -9,7 +9,7 @@ A full-featured Java-based web application designed to streamline the process of
 
 🔐 Authentication System — Secure login and registration for customers and delivery agents.
 
-📦 Courier Booking Module — Book couriers with automatic cost and delivery time calculation based on distance.
+📦 Courier Booking Module — Book couriers with automatic cost and delivery time calculation based on weight and distance.
 
 💳 Payment Integration — Track courier charges with support for different payment methods and a payment history dashboard.
 
@@ -24,12 +24,20 @@ A full-featured Java-based web application designed to streamline the process of
 
 ## 🛠️ Technologies Used
 
-- Java (Servlets & JSP)
-- JDBC & MySQL
-- HTML, CSS,BootStrap5, JavaScript
-- Apache Tomcat
-- Maven (project build management)
-- Eclipse IDE
+
+-Java 21
+
+-Servlets & JSP
+
+-JDBC with MySQL
+
+-Apache Tomcat 10
+
+-HTML, CSS, JavaScript, Bootstrap 5
+
+-Maven
+
+-MVC Architecture
 
 ---
 
