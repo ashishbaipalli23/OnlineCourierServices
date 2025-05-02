@@ -64,7 +64,7 @@ OnlineCourierService/
 
 ## 🧪 How to Run
 
-1. Clone the repository :
+1. Clone the repository : https://github.com/ashishbaipalli23/OnlineCourierServices.git
 2. Import the project into Eclipse as a **Maven Project**.
 
 3. Set up a MySQL database and run the SQL scripts located in `resources/sql/`.
