@@ -35,8 +35,8 @@ OnlineCourierService/
 ├── src/
 │   ├── main/
 │   │   ├── java/                       # Java source code
-│   │   │   ├── com.ashi.controller/   # Servlets handling requests (e.g., LoginServlet, BookCourierServlet)
-│   │   │   ├── com.courier.dao/          # DAO classes for DB operations (e.g., UserDAO, CourierDAO)
+│   │   │   ├── com.ashi.controllers/   # Servlets handling requests (e.g., LoginServlet, BookCourierServlet)
+│   │   │   ├── com.courier.BeansandDAOs/          # Beans and DAO classes for DB operations (e.g., UserDAO, CourierDAO)
 │   │   │   └── com.ashi.dbconfig/    #DBconfiguration (JDBC connection)
 │   │   └── webapp/
 │   │       ├── WEB-INF/
@@ -52,7 +52,7 @@ OnlineCourierService/
 
 ## 🧪 How to Run
 
-1. Clone the repository
+1. Clone the repository :
 2. Import the project into Eclipse as a **Maven Project**.
 
 3. Set up a MySQL database and run the SQL scripts located in `resources/sql/`.
