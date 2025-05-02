@@ -63,9 +63,18 @@ OnlineCourierService/
 ---
 
 ## Database structure
--- The **Online Courier Service** uses the following database structure to manage data effectively.
+- The **Online Courier Service** uses the following database structure to manage data effectively.
 ![Image](https://github.com/user-attachments/assets/0be5ef2a-c3a0-4d23-8c6c-7fcdfa12297c)
+## Relationships Between Tables
+- Customers place Courier orders and can leave Reviews on completed deliveries.
 
+- Couriers are booked by Customers and are assigned to Orders.
+
+- Orders link Customers, Couriers, and Delivery Staff.
+
+- Delivery Staff handle Orders and have the option to leave Reviews on the service they provided.
+
+- Payments are made for Orders by Customers.
 
 ## 🧪 How to Run
 
