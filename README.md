@@ -62,7 +62,8 @@ OnlineCourierService/
 
 ---
 
-## Table Strucutre 
+## Database structure
+-- The **Online Courier Service** uses the following database structure to manage data effectively.
 ![Image](https://github.com/user-attachments/assets/0be5ef2a-c3a0-4d23-8c6c-7fcdfa12297c)
 
 
