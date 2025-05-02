@@ -25,19 +25,19 @@ A full-featured Java-based web application designed to streamline the process of
 ## 🛠️ Technologies Used
 
 
--Java 21
+- Java 21
 
--Servlets & JSP
+- Servlets & JSP
 
--JDBC with MySQL
+- JDBC with MySQL
 
--Apache Tomcat 10
+- Apache Tomcat 10
 
--HTML, CSS, JavaScript, Bootstrap 5
+- HTML, CSS, JavaScript, Bootstrap 5
 
--Maven
+- Maven
 
--MVC Architecture
+- MVC Architecture
 
 ---
 
