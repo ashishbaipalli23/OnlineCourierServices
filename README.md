@@ -62,6 +62,10 @@ OnlineCourierService/
 
 ---
 
+## Table Strucutre 
+![Image](https://github.com/user-attachments/assets/0be5ef2a-c3a0-4d23-8c6c-7fcdfa12297c)
+
+
 ## 🧪 How to Run
 
 1. Clone the repository : https://github.com/ashishbaipalli23/OnlineCourierServices.git
