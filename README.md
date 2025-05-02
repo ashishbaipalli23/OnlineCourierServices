@@ -7,14 +7,19 @@ A full-featured Java-based web application designed to streamline the process of
 
 ## 🔧 Features
 
-- User registration and login (Customer, Admin, Delivery Agent)
-- Courier booking with dynamic cost and delivery date calculation
-- Secure payment system with payment history
-- Real-time delivery tracking for customers
-- Delivery history and performance stats for delivery agents
-- Review system (submit and view reviews for completed orders)
-- Admin panel for managing users, couriers, and payments
+🔐 Authentication System — Secure login and registration for customers and delivery agents.
 
+📦 Courier Booking Module — Book couriers with automatic cost and delivery time calculation based on distance.
+
+💳 Payment Integration — Track courier charges with support for different payment methods and a payment history dashboard.
+
+🚚 Delivery Tracking — Real-time updates and delivery status tracking for customers.
+
+🧾 Delivery History — Delivery agents can view a complete history of all completed deliveries.
+
+🌟 Review & Rating System — Customers can submit one-time reviews for delivered orders and view past feedback.
+
+⚙️ Admin Panel — Manage users, staff, and all courier activity centrally.
 ---
 
 ## 🛠️ Technologies Used
