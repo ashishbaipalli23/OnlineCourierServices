@@ -30,6 +30,7 @@ A full-stack web application for booking and managing courier deliveries. Built 
 ---
 
 ## ⚙️ Project Structure
+```
 OnlineCourierService/
 ├── src/
 │   ├── main/
@@ -45,7 +46,7 @@ OnlineCourierService/
 │
 ├── pom.xml                             # Maven project configuration file
 └── README.md                           # Project overview and instructions
-
+```
 
 ---
 
