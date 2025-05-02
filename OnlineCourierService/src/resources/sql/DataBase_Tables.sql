@@ -1,5 +1,4 @@
 --Mysql database
-
 CREATE TABLE admin (
     admin_id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(50) NOT NULL UNIQUE,
