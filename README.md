@@ -53,8 +53,8 @@ OnlineCourierService/
 │   │   └── webapp/
 │   │       ├── WEB-INF/
 │   │       │   └── web.xml             # Deployment descriptor
-│   │       ├── jsp/                    # JSP pages (e.g., login.jsp, bookCourier.jsp, dashboard.jsp)
-│   │       └── index.jsp               # Landing/Home page
+│   │       ├── images/                  # images used in the project
+│   │       └── index.jsp               # Landing/Home page flowed by other JSP pages (e.g., login.jsp, bookCourier.jsp, dashboard.jsp)
 │
 ├── pom.xml                             # Maven project configuration file
 └── README.md                           # Project overview and instructions
