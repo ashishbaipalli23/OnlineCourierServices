@@ -1,8 +1,7 @@
 # OnlineCourierServices
 Online Courier Service – Java Web Application A full-stack web application 
 # 🚚 Online Courier Service - Java Maven Web Project
-
-A full-stack web application for booking and managing courier deliveries. Built using **Java**, **JSP**, **Servlets**, **JDBC**, and **MySQL** with **Maven** as the build tool, following the **MVC design pattern**.
+A full-featured Java-based web application designed to streamline the process of booking, tracking, and managing courier deliveries. This project is built using **java**,**JSP**, **Servlets**, **JDBC**, and **MySQL**, and follows the **MVC (Model-View-Controller) architectural pattern** to ensure clean separation of concerns. The application is packaged using **Maven** for efficient dependency management and build automation.
 
 ---
 
