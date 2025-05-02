@@ -69,7 +69,7 @@ OnlineCourierService/
 
 3. Set up a MySQL database and run the SQL scripts located in `resources/sql/`.
 
-4. Update your database credentials in the relevant DBConnection class.
+4. Update your database credentials in the relevant DBConnection class present in  **com.ashi.dbconfig** pacakge.
 
 5. Deploy the project on Apache Tomcat server.
 
